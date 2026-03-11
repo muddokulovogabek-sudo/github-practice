@@ -1,1 +1,1 @@
-print('task01.py')
+print("python")
